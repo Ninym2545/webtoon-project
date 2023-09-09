@@ -9,13 +9,39 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.1.0",
+    "@chakra-ui/next-js": "^2.1.5",
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@heroicons/react": "^2.0.18",
+    "@types/react-scroll": "^1.8.7",
     "autoprefixer": "10.4.15",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.19",
+    "framer-motion": "^10.16.0",
+    "jquery": "^3.7.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.0",
     "next": "13.4.19",
+    "next-auth": "^4.23.1",
+    "nodemailer": "^6.9.4",
+    "omise": "^0.10.1",
     "postcss": "8.4.28",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "react-load-script": "^0.0.6",
+    "react-router-dom": "^6.15.0",
+    "react-scroll": "^1.8.9",
+    "sweetalert2": "^11.7.27",
+    "swr": "^2.2.1",
     "tailwindcss": "3.3.3"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.16",
+    "@types/react": "^18.2.20"
   }
 }
